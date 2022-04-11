@@ -6,7 +6,7 @@
 
 .info-page{
   
-    background : linear-gradient(0deg, rgb(152, 146, 211) 0%, rgba(253,45,81,1) );
+    background : linear-gradient(0deg, rgba(253,45,81,1) , rgb(152, 146, 211) 50%);
     background-repeat: no-repeat;
 }
 
